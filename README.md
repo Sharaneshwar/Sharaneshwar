@@ -6,6 +6,9 @@
     <a href="https://www.hackerrank.com/sharaneshwar">
       <img src="https://img.shields.io/badge/Hackerrank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
     </a>
+    <a href="https://twitter.com/Sharan_2208">
+      <img src="https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
     <a href="https://leetcode.com/punjalsharaneshwar">
       <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
     </a>
