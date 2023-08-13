@@ -1,12 +1,12 @@
 <div id="header" align="center">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/sharaneshwar-punjal/">
+    <a href="https://www.linkedin.com/in/sharaneshwar-punjal/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.hackerrank.com/sharaneshwar">
+    <a href="https://www.hackerrank.com/sharaneshwar/" target="_blank">
       <img src="https://img.shields.io/badge/Hackerrank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
     </a>
-    <a href="https://leetcode.com/punjalsharaneshwar/">
+    <a href="https://leetcode.com/punjalsharaneshwar/" target="_blank">
       <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
     </a>
   </div>
