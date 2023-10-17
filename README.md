@@ -48,10 +48,6 @@ I'm an advocate for open source software and love contributing to projects that 
 
 I'm always eager to connect with fellow developers, share ideas, and collaborate on exciting projects. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sharaneshwar-punjal/)!
 
-
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sharaneshwar&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharaneshwar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
