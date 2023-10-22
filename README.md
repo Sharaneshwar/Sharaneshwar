@@ -40,9 +40,9 @@ I believe in the power of constant learning and improvement. Currently, I'm expa
 - Version Control: Git
 - IDEs: VS Code, IntelliJ IDEA Ultimate, PyCharm Professional
 
-## 🌟 Open Source Contributor
+<!-- ## 🌟 Open Source Contributor
 
-I'm an advocate for open source software and love contributing to projects that make a difference. You can often find me collaborating with like-minded developers to improve the tools we all rely on.
+I'm an advocate for open source software and love contributing to projects that make a difference. You can often find me collaborating with like-minded developers to improve the tools we all rely on. -->
 
 ## 📫 Let's Connect
 
