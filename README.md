@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <div id="badges">
-    <a href="mailto:punjalsharaneshwar@gmail.com" target="_blank">
+    <a href="mailto:punjalsharaneshwar@gmail.com?subject=Hello&body=Glad%20to%20connect%20with%20you!" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>    
     <a href="https://www.linkedin.com/in/sharaneshwar-punjal" target="_blank">
@@ -53,10 +53,10 @@ I'm an advocate for open source software and love contributing to projects that 
 
 I'm always eager to connect with fellow developers, share ideas, and collaborate on exciting projects. Feel free to reach out to me on: <br>
 **LinkedIn - https://www.linkedin.com/in/sharaneshwar-punjal/** <br>
-**Gmail - punjalsharaneshwar@gmail.com**
+**Gmail - [punjalsharaneshwar@gmail.com](mailto:punjalsharaneshwar@gmail.com?subject=Hello&body=Glad%20to%20connect%20with%20you!)**
 
 ## 🏆 My GitHub Stats 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sharaneshwar&theme=darkhub&row=2&column=3&margin-w=20&margin-h=20)](https://github.com/swarraaa/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sharaneshwar&theme=darkhub&row=2&column=3&margin-w=20&margin-h=20)](https://github.com/Sharaneshwar/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharaneshwar&layout=compact&theme=vision-friendly-dark)](https://github.com/Sharaneshwar/github-readme-stats)
