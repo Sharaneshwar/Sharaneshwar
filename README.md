@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <div id="badges">
-    <a href="mailto:punjalsharaneshwar@gmail.com?subject=Hello&body=Glad%20to%20connect%20with%20you!" target="_blank">
+<!--     <a href="mailto:punjalsharaneshwar@gmail.com?subject=Hello&body=Glad%20to%20connect%20with%20you!" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>    
+    </a>     -->
     <a href="https://www.linkedin.com/in/sharaneshwar-punjal" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>    
