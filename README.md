@@ -12,9 +12,9 @@
     <a href="https://twitter.com/Sharan_2208" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <!-- <a href="https://leetcode.com/Sharaneshwar">
+    <a href="https://leetcode.com/Sharaneshwar">
       <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-    </a> -->
+    </a>
   </div>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Sharaneshwar&style=flat-round&color=red" alt=""/>
