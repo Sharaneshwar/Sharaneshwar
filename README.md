@@ -20,7 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=Sharaneshwar&style=flat-round&color=red" alt=""/>
 </div>
 
-![snake gif](https://github.com/Sharaneshwar/Sharaneshwar/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/Sharaneshwar/Sharaneshwar/blob/output/github-contribution-grid-snake.svg)
 
 ### Hi there 👋
 
