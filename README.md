@@ -17,10 +17,9 @@
     </a>
   </div>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Sharaneshwar&style=flat-round&color=red" alt=""/>
 </div>
 
-![Snake animation](https://github.com/Sharaneshwar/Sharaneshwar/blob/output/github-contribution-grid-snake.svg)
+[![](https://visitcount.itsvg.in/api?id=Sharaneshwar&icon=8&color=0)](https://visitcount.itsvg.in)
 
 ### Hi there 👋
 
