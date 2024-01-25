@@ -26,7 +26,7 @@
 
 I'm Sharaneshwar 👋, I'm a passionate B.Tech student in Computer Science and Engineering, with a deep love for both web and software development. I thrive on creating impactful and user-centered digital experiences that combine form and function.
 
-## 👨‍💻 Tech Enthusiast & Full-Stack Developer
+## 💻 Tech Enthusiast & Full-Stack Developer
 
 - ✨ Delved Deep into Data Structures and Algorithms with a refined understanding, transforming complexity into elegant solutions
 - 🌐 Skilled in web technologies and frameworks like React, Express, Node, Next JS and more.
