@@ -17,9 +17,8 @@
     </a>
   </div>
   <br>
+  <img src="https://komarev.com/ghpvc/?username=Sharaneshwar&style=flat-round&color=red" alt=""/>
 </div>
-
-[![](https://visitcount.itsvg.in/api?id=Sharaneshwar&icon=8&color=0)](https://visitcount.itsvg.in)
 
 ### Hi there 👋
 
