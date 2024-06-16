@@ -55,7 +55,10 @@ I'm always eager to connect with fellow developers, share ideas, and collaborate
 **LinkedIn - https://www.linkedin.com/in/sharaneshwar-punjal/** <br>
 **Gmail - [punjalsharaneshwar@gmail.com](mailto:punjalsharaneshwar@gmail.com?subject=Hello&body=Glad%20to%20connect%20with%20you!)**
 
-## 🏆 My GitHub Stats 🏆
+## 🏆 Leetcode Stats 🏆
+![Leetcode Stats](https://leetcard.jacoblin.cool/Sharaneshwar?theme=dark)
+
+## 🏆 GitHub Stats 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sharaneshwar&theme=darkhub&row=2&column=3&margin-w=20&margin-h=20)](https://github.com/Sharaneshwar/github-profile-trophy)
 
